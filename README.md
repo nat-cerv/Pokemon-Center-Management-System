@@ -1,6 +1,6 @@
 # Pokemon-Center-Management-System
 
-1. Program Overview: The system simulates a Pokémon Center where users can:
+1. Program Overview: The system simulates a Pokémon Center where users can...
 - View Pokémon stored in a box and in their current party.
 - Filter Pokémon based on type, level, or generation.
 - Add and remove Pokémon from their party.
