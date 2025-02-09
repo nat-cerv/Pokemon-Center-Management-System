@@ -8,7 +8,7 @@ import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;
 import javax.sound.sampled.AudioInputStream;
 
-public class compLab3 
+public class pokemonCenterMain 
 {
     public static void main(String[] args) throws Exception
 	{
